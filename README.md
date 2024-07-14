@@ -28,7 +28,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,html,github,photoshop,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,git,github,photoshop,&perline=5)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavindraKachariya&show_icons=true&theme=dark)
 
