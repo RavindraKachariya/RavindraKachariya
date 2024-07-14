@@ -7,11 +7,15 @@
   
 ### Connect with me:
 <div id="badges">
+
+ <a href="https://www.linkedin.com/in/ravindra-kachariya-16b902303/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+  </a>
   
    <a href="https://www.instagram.com/design_by._.rk">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
+  
   <a href="https://linktr.ee/ravindrakachariya">
     <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=Linktree&logoColor=white" alt="Link Tree"/>
   </a>
