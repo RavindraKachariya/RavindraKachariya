@@ -19,6 +19,11 @@
   <a href="https://linktr.ee/ravindrakachariya">
     <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=Linktree&logoColor=white" alt="Link Tree"/>
   </a>
+  
+ <a href="https://www.behance.net/ravindrakachariya">
+    <img src="https://img.shields.io/badge/behance-navy?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+
    
 </div>
 
