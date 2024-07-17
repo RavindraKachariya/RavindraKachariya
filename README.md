@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ravindra Kachariya</h1>
 
- [![](https://visitcount.itsvg.in/api?id=RavindraKachariya&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RavindraKachariya&label=Profile%20views&color=0e75b6&style=flat" alt="RavindraKachariya" /> </p>
 
 - 🌱 I’m currently learning C Language
 - 💬 Ask me anything about C language 
