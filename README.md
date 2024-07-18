@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C Language
 - 💬 Ask me anything about C language 
 - 📫 How to reach me: ravindrakachariya@gmail.com
-- 😄 My website: https://linktr.ee/ravindrakachariya
+- 😄 My website: https://bento.me/ravindrakachariya
   
 ### 🌐 Socials :
 <div id="badges">
