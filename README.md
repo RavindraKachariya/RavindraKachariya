@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/behance-navy?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   
- <a href="https://linktr.ee/ravindrakachariya">
-    <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=Linktree&logoColor=white" alt="Link Tree"/>
+ <a href="https://bento.me/ravindrakachariya">
+    <img src="https://img.shields.io/badge/Bento-green?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento"/>
   </a>
 
    
