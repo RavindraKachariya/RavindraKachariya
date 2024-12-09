@@ -2,10 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RavindraKachariya&label=Profile%20views&color=0e75b6&style=flat" alt="RavindraKachariya" /> </p>
 
-- 🌱 I’m currently learning C Language
-- 💬 Ask me anything about C language 
+- 🌱 I’m currently learning C++ Language
 - 📫 How to reach me: ravindrakachariya@gmail.com
-- 😄 My website: https://bento.me/ravindrakachariya
   
 ### 🌐 Socials :
 <div id="badges">
@@ -30,7 +28,7 @@
 </div>
 
 ## 💻 Tech Stack:
-![](https://skillicons.dev/icons?i=c,html,git,github,photoshop)
+![](https://skillicons.dev/icons?i=c,cpp,html,git,github,photoshop)
 
 ## 📊 GitHub Stats:
 ![Ravindra Kachariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavindraKachariya&show_icons=true&theme=dark)<br>
