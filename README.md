@@ -15,6 +15,10 @@
  <a href="https://www.behance.net/ravindrakachariya">
     <img src="https://img.shields.io/badge/behance-navy?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
+
+  <a href="https://www.instagram.com/design_by._.rk">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   
    
 </div>
