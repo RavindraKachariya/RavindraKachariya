@@ -20,7 +20,7 @@
 </div>
 
 ## 💻 Tech Stack:
-![](https://skillicons.dev/icons?i=c,cpp,html,git,github,photoshop)
+![](https://skillicons.dev/icons?i=c,cpp,html,git,github,notion,photoshop)
 
 ## 📊 GitHub Stats:
 ![Ravindra Kachariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavindraKachariya&show_icons=true&theme=dark)<br>
