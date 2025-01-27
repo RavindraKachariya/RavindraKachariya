@@ -8,7 +8,7 @@
 ### 🌐 Socials :
 <div id="badges">
 
- <a href="https://www.linkedin.com/in/ravindra-kachariya-8a3356349/">
+ <a href="https://www.linkedin.com/in/ravindra-kachariya-9a9687291/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
    
