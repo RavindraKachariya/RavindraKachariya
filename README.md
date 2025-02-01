@@ -1,22 +1,28 @@
- <h1 align="center">Hi 👋, I'm Ravindra Kachariya</h1>
+<h1 align="center">Hi 👋, I'm Ravindra Kachariya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RavindraKachariya&label=Profile%20views&color=0e75b6&style=flat" alt="RavindraKachariya" /> </p>
 
-- 🌱 I’m currently learning C++ Language
-- 📫 How to reach me: ravindrakachariya@gmail.com
+- 🌱 I’m currently learning C++ Language  
+- 📧 How to reach me: ravindrakachariya@gmail.com  
   
 ### 🌐 Socials :
 <div id="badges">
 
  <a href="https://www.linkedin.com/in/ravindra-kachariya-9a9687291/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    
  <a href="https://www.behance.net/ravindrakachariya">
     <img src="https://img.shields.io/badge/behance-navy?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
- 
-   
+  
+ <a href="https://leetcode.com/u/RavindraKachariya/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  
+ <a href="https://x.com/ravindra_0303">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
 
 ## 🚀 Skills & Tools
@@ -41,7 +47,6 @@
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerPoint](https://img.shields.io/badge/-PowerPoint-D83B01?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
-
 ## 📊 GitHub Stats:
 ![Ravindra Kachariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavindraKachariya&show_icons=true&theme=dark)<br>
 
@@ -54,4 +59,3 @@
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
