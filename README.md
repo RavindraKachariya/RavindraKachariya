@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/badge/behance-navy?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   
- <a href="https://leetcode.com/u/RavindraKachariya/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  
  <a href="https://x.com/ravindra_0303">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
