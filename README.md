@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RavindraKachariya&label=Profile%20views&color=0e75b6&style=flat" alt="RavindraKachariya" /> </p>
 
-- 🌱 I’m currently learning C++ Language  
+- 🌱 I’m currently learning MERN Stack Development
 - 📧 How to reach me: ravindrakachariya@gmail.com  
   
 ### 🌐 Socials :
@@ -29,6 +29,7 @@
 
 ### **Web Development :**
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
 ### **Version Control :**
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
